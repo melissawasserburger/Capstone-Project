@@ -24,7 +24,6 @@ const caesarModule = (function () {
     }
   
     return result;
-  
     
   }
 
